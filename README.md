@@ -19,9 +19,9 @@
 
 
 ### 展示
-<div align=center><img height="920" width="540" src="https://github.com/Lirubn/SoulGiftAide/blob/main/Main.jpg"/></div>
+<div align=center><img height="810" width="540" src="https://github.com/Lirubn/SoulGiftAide/blob/main/Main.jpg"/></div>
 <br>
-<div align=center><img height="920" width="540" src="https://github.com/Lirubn/SoulGiftAide/blob/main/Aide.jpg"/></div>
+<div align=center><img height="810" width="540" src="https://github.com/Lirubn/SoulGiftAide/blob/main/Aide.jpg"/></div>
 <br>
 
 
