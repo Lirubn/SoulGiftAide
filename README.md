@@ -19,9 +19,9 @@
 
 
 ### 展示
-<div align=center><img height="1080" width="540" src="https://github.com/bjc5233/autojs/raw/master/resources/demo1.png"/></div>
+<div align=center><img height="1080" width="540" src="https://github.com/Lirubn/SoulGiftAide/blob/main/Main.jpg"/></div>
 <br>
-<div align=center><img height="1080" width="540" src="https://github.com/bjc5233/autojs/raw/master/resources/demo2.png"/></div>
+<div align=center><img height="1080" width="540" src="https://github.com/Lirubn/SoulGiftAide/blob/main/Aide.jpg"/></div>
 <br>
 
 
