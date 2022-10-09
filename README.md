@@ -28,7 +28,7 @@
 
 
 ### other
-1. 目前所使用机型[Oneplus 7][1080 x 2160][开发者选项中最小宽度设值380]
+1. 目前所使用机型[Oneplus 7][1080 x 2400][开发者选项中最小宽度设值380]
 2. 如果要通过shell直接运行脚本：
 ```
 am start -n org.autojs.autojs/.external.open.RunIntentActivity -d file:///storage/emulated/0/脚本/大众点评-签到.js -t text/javascript
