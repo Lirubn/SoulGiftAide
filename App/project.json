@@ -1,0 +1,34 @@
+{
+  "assets": [],
+  "build": {
+    "build_id": "AA727173-1",
+    "build_number": 1,
+    "build_time": 1665054438155,
+    "release": false
+  },
+  "encryptLevel": 0,
+  "useFeatures": [],
+  "icon": "res/icon.png",
+  "launchConfig": {
+    "displaySplash": true,
+    "hideLogs": false,
+    "splashText": "Powered by Auto.js Pro",
+    "stableMode": false
+  },
+  "main": "Main.js",
+  "name": "SoulGiftAide",
+  "optimization": {
+    "removeAccessibilityService": false,
+    "removeOpenCv": false,
+    "unusedResources": false
+  },
+  "packageName": "www.QQ2696164823.soul",
+  "permissionConfig": {
+    "requestListOnStartup": [
+      "android.permission.WRITE_EXTERNAL_STORAGE"
+    ]
+  },
+  "scripts": {},
+  "versionCode": 20211003,
+  "versionName": "21.40"
+}
