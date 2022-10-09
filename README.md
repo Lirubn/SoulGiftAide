@@ -54,7 +54,7 @@
 ### 版本历史
 
 [comment]: <> (Version history only shows last 3 versions)
-# v1.2.2
+# v21.40
 ###### 2021/08/02
 * `新增` 添加动态识别检测
 * `新增` 添加方框类显示
