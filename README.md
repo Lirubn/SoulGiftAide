@@ -1,5 +1,5 @@
 # autojs
-> android autojs签到类脚本
+> android autojs红包礼物类脚本
 
 ### 说明
 脚本主要用于红包礼物类自动处理
