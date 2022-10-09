@@ -20,7 +20,6 @@
 
 ### 展示
 <div align=center><img height="540" width="270" src="https://github.com/Lirubn/SoulGiftAide/blob/main/Main.jpg"/></div>
-<br>
 <div align=center><img height="540" width="270" src="https://github.com/Lirubn/SoulGiftAide/blob/main/Aide.jpg"/></div>
 <br>
 
